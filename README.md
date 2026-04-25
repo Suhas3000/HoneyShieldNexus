@@ -25,7 +25,7 @@ HoneyShield Nexus is designed as a lightweight cyber range for cybersecurity tra
 1. Simulated Attack Chain
 * &#x20;Reconnaissance (Port / Service Scan)
 * &#x20;SSH Brute Force
-* &#x20;Fake Shell Access
+* &#x20; Shell Access
 * &#x20;Command Execution Simulation
 * &#x20;Honeytoken Trigger
 * &#x20;Automated Sinkhole / Containment
