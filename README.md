@@ -32,7 +32,7 @@ HoneyShield Nexus is designed as a lightweight cyber range for cybersecurity tra
 
 
 
-2 Honeypot Environment
+2. Honeypot Environment
 
 * SSH terminal session
 * &#x20;Deception-based credential baiting
@@ -41,7 +41,7 @@ HoneyShield Nexus is designed as a lightweight cyber range for cybersecurity tra
 
 
 
-3 Defensive Analytics
+3. Defensive Analytics
 
 * \- Alert Queue
 * \- Network State Monitoring
@@ -51,7 +51,7 @@ HoneyShield Nexus is designed as a lightweight cyber range for cybersecurity tra
 
 
 
-4\. Reporting
+4. Reporting
 
 * \- Professional PDF Incident Report Export
 * \- Human-readable forensic summary
@@ -64,13 +64,22 @@ HoneyShield Nexus is designed as a lightweight cyber range for cybersecurity tra
 
 #### 
 
-#### **Tech Stack**
 
-\- Python
-\- Flask
-\- HTML / CSS / JavaScript
-\- Chart.js
-\- ReportLab (PDF generation)
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,flask,html,css,js" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Chart.js-Analytics-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/ReportLab-PDF%20Generation-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-Threat%20Mapping-16A34A?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+<img src="https://img.shields.io/badge/Threat%20Intelligence-IOC%20Enrichment-7C3AED?style=for-the-badge&logo=datadog&logoColor=white" />
+
+</div>
 
 
 
@@ -80,11 +89,11 @@ HoneyShield Nexus is designed as a lightweight cyber range for cybersecurity tra
 
 #### &#x20;**MITRE ATT\&CK Techniques Simulated**
 
-\- T1595 – Active Scanning
-\- T1110 – Brute Force
-\- T1078 – Valid Accounts
-\- T1083 – File and Directory Discovery
-\- T1552 – Unsecured Credentials
+* \ T1595 – Active Scanning
+* \ T1110 – Brute Force
+* \ T1078 – Valid Accounts
+* \ T1083 – File and Directory Discovery
+* \ T1552 – Unsecured Credentials
 
 
 
@@ -92,7 +101,7 @@ HoneyShield Nexus is designed as a lightweight cyber range for cybersecurity tra
 
 
 
-#####  How to Run
+##  How to Run
 
 
 
@@ -145,7 +154,7 @@ IOC + Threat Intel
    ↓
 PDF Report Export
 ```
-## Future Scope
+### Future Scope
 - Analyst interaction controls
 - Multi-scenario attack library
 - Containerized network emulation
