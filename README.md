@@ -71,13 +71,9 @@ HoneyShield Nexus is designed as a lightweight cyber range for cybersecurity tra
 #### **Tech Stack**
 
 \- Python
-
 \- Flask
-
 \- HTML / CSS / JavaScript
-
 \- Chart.js
-
 \- ReportLab (PDF generation)
 
 
@@ -89,13 +85,9 @@ HoneyShield Nexus is designed as a lightweight cyber range for cybersecurity tra
 #### &#x20;**MITRE ATT\&CK Techniques Simulated**
 
 \- T1595 – Active Scanning
-
 \- T1110 – Brute Force
-
 \- T1078 – Valid Accounts
-
 \- T1083 – File and Directory Discovery
-
 \- T1552 – Unsecured Credentials
 
 
