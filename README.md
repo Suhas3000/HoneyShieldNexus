@@ -1,4 +1,5 @@
-# &#x20;**HoneyShield NEXUS**
+# &#x20;**HoneyShield NEXUS** <img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/e181de0f-3c36-48ab-8207-05ca8ae2cb9f" />
+
 
 
 
@@ -8,12 +9,7 @@
 
 HoneyShield Nexus is an interactive deception-driven Cyber Range as a Service (CRaaS) simulation platform built using Python and Flask.
 
-
-
 The platform simulates a realistic SSH intrusion lifecycle inside a controlled honeypot environment, allowing defenders, students, and researchers to observe attacker behavior, deception mechanisms, MITRE ATT\&CK technique mapping, IOC generation, and automated incident reporting.
-
-
-
 HoneyShield Nexus is designed as a lightweight cyber range for cybersecurity training, attack simulation, and forensic analysis.
 
 
@@ -128,20 +124,31 @@ http://127.0.0.1:5000
 
 
 
-#### **Project Architecture**
+## Architecture
 
-
-
-##### **Attacker Simulation → Honeypot Interaction → Detection → MITRE Mapping → IOC Generation → Threat Intelligence → PDF Report**
-
-
-
-
-#### &#x20;**Future Scope**
-
-\- Analyst interaction controls
-\- Multi-scenario attack library
-\- Containerized network emulation
-\- SIEM integration
-\- Threat hunting dashboards
+```text
+Attacker
+   ↓
+Recon Scan
+   ↓
+SSH Honeypot
+   ↓
+HoneyShell Session
+   ↓
+Honeytoken Trigger
+   ↓
+Detection Engine
+   ↓
+MITRE Mapping
+   ↓
+IOC + Threat Intel
+   ↓
+PDF Report Export
+```
+## Future Scope
+- Analyst interaction controls
+- Multi-scenario attack library
+- Containerized network emulation
+- SIEM integration
+- Threat hunting dashboards
 
