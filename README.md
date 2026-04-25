@@ -96,7 +96,7 @@ HoneyShield Nexus is designed as a lightweight cyber range for cybersecurity tra
 
 
 
-##### \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\***\*\*\* How to Run\***\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+##### \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\***********************************\*\***\*\*\* How to Run\***\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 
 
@@ -137,18 +137,11 @@ http://127.0.0.1:5000
 
 
 
-
-
-
 #### &#x20;**Future Scope**
 
 \- Analyst interaction controls
-
 \- Multi-scenario attack library
-
 \- Containerized network emulation
-
 \- SIEM integration
-
 \- Threat hunting dashboards
 
